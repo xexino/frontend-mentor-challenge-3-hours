@@ -271,8 +271,8 @@ footer {
         margin-bottom: 3.5rem;
     }
 
-    header img {
-        width: 20%;
+    header .logo {
+        width: 13%;
     }
 
     header button {
